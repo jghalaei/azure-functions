@@ -1,0 +1,6 @@
+to understand distributed infrastructure in azure devloping, I want to create an azure function to 
+1. get a text file and upload it to azure storage, the function should be called with API management.
+2. using logic apps get the file and do some calculation. for example a list of words and their repeat count in the text, send an event using event grid.
+3. subscribe the event send an email with the result to user
+4. user can check the result by another API provided in the email.
+please help me to write this simple app. by giving the instructions one by one
